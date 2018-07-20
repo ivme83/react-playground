@@ -1,0 +1,13 @@
+{
+  "name": "react-playground",
+  "version": "1.0.0",
+  "description": "Environment to learn more about react",
+  "main": "index.js",
+  "repository": "https://github.com/ivme83/react-playground.git",
+  "author": "Roland Willis <rolandwillisiv@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  }
+}
